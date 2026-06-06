@@ -1,0 +1,10 @@
+ir-datasets
+nltk
+rank-bm25
+sentence-transformers
+scikit-learn
+pandas
+numpy
+tqdm
+fastapi
+uvicorn
